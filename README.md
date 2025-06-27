@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **subhashreesahu2002@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[Portfolio](https://intro-of-my-work.web.app/)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://subhashree-sahu-61cb5.web.app/)**
 
 ## 🌐 Socials :
 
