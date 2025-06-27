@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B+from+subhashree!;Java+Developer+From+India&font=Fira+Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000
-">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B+from+subhashree!;Java+Developer+From+India&font=Fira+Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 
@@ -62,7 +61,7 @@
 
 <div align="center">
 <a href="https://github.com/shamirasha?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=shamirasha&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="46%" alt="shamirasha github-readme-stats"/></a>
-<a href="https://github.com/shamirasha?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shamirasha&theme=gotham&hide_border=true"  width="46%" alt="shamirasha" github-readme-streak-stats"/></a>
+<a href="https://github.com/shamirasha?tab=stars"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=shamirasha&theme=gotham&hide_border=true"  width="46%" alt="shamirasha" github-readme-streak-stats"/></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamirasha&theme=gotham&hide_border=true&langs_count=6&count_private=true&layout=compact" alt="shamirasha" width="43%" align="center"></a> 
 </div>
 
